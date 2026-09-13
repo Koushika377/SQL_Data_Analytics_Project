@@ -1,3 +1,10 @@
+/*
+calculate running totals or moving averages for key metrics.
+track performance over time cumulatively.
+Useful for growth analysis or identifying long-term trends.
+
+*/
+
 -- calculate the total sales per month
 -- and running total of sales over time
 
