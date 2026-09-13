@@ -1,3 +1,10 @@
+/*
+compare performance or metrics across dimensions or time periods.
+evaluate differences between categories.
+Useful for A/B testing or regional comparisons.
+
+*/
+
 -- which categories contribute most to overall sales
 WITH category_sales AS (
 SELECT
