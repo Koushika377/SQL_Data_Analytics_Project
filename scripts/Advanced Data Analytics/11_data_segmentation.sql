@@ -1,3 +1,9 @@
+/*
+group data into meaningful categories for targeted insights.
+For customer segmentation, product categorization, or regional analysis.
+*/
+
+
 /*segment products into cost ranges and count how many products 
 fall into each category*/
 WITH product_segments AS (
