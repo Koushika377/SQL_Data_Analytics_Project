@@ -1,3 +1,7 @@
+/*
+explore structure of the data,columns, metadata
+*/
+
 -- explore all objects in the database
 SELECT * FROM INFORMATION_SCHEMA.TABLES
 
