@@ -1,3 +1,7 @@
+/*
+explore the structure of dimension tables
+*/
+
 -- explore all countries our customers come from
 SELECT DISTINCT country 
 FROM gold.dim_customers
