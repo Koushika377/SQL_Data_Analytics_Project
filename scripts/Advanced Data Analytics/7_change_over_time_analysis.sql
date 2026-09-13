@@ -1,3 +1,10 @@
+/*
+track trends, growth, and changes in key metrics over time.
+For time-series analysis and identifying seasonality.
+measure growth or decline over specific periods.
+
+*/
+
 -- analyze sales performance overtime
 -- yearly sales
 select
