@@ -1,3 +1,8 @@
+/*
+rank items (e.g., products, customers) based on performance or other metrics.
+identify top performers or laggards.
+*/
+
 -- which 5 products generate the highest revenue
 
 
