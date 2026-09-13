@@ -1,3 +1,10 @@
+/*
+measure the performance of products, customers, or regions over time.
+For benchmarking and identifying high-performing entities.
+track yearly trends and growth.
+
+*/
+
 -- analyze the yearly performance of products by comparing their
 -- sales to both the average sales performance of the product and the previous year's sales
 
