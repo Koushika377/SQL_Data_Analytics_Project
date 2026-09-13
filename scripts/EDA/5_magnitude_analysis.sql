@@ -1,3 +1,8 @@
+/*
+quantify data and group results by specific dimensions
+understand data distribution across categories
+*/
+
 -- comparing the measure values by categories.
 
 -- find total customers by countries
