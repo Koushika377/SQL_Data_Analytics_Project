@@ -1,3 +1,7 @@
+/*
+calculate aggregated metrics, overall trends
+*/
+
 -- find the total sales
 select sum(sales_amount) as total_sales from gold.fact_sales
 
